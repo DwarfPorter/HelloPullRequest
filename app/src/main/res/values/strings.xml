@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hello Pull Request</string>
+    <string name="hello_pull_request">Hello Pull Request!</string>
 </resources>
